@@ -1,0 +1,10 @@
+p {
+  text-align: start;
+<<<<<<< HEAD
+  color: beige;
+=======
+  color: blue;
+  background-color: red;
+
+>>>>>>> efd39eb0dc9475cd279ead9b69ed7ad34eb4840c
+}
